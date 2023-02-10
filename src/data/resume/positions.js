@@ -1,110 +1,109 @@
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Co-founder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'ELLIS ELEMENTARY,SUNNYVALE',
+    position: 'PTA Volunteer',
+    link: 'https://www.sesd.org/ellis',
+    daterange: 'August 2021 - August 2022',
     points: [
-      'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-      'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
-    ],
+      'As part of PTA, designed and created flyer for fund raising event.',
+      'Participated in fund-raising events and activities.',
+     'Reached out to organizations who can raise fund for school.',
+      'Organized distribution of tokens/gifts to students (10 classes).',
+      'Chaperoned class field trips to assist teacher and protect students (25).',
+      'Assisted with classes by helping teacher where ever is needed and maintain organized spaces.',
+    ]
   },
   {
-    company: 'Skeptical Investments',
-    position: 'Co-founder',
-    link: 'http://skepticalinvestments.biz',
-    daterange: 'April 2017 - Present',
+    company: 'BRIGHT BEGINNERS, SUNNYVALE',
+    position: 'Parent Volunteer',
+    link: 'https://www.fuhsdadultschool.com/preschool-programs/bright-beginnings-preschool',
+    daterange: 'January 2017-December 2020',
     points: [
-      'Founded a micro-vc fund to throw token amounts of money at problems I find interesting.',
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-    ],
+      'Chaperoned class field trips to assist teacher and protect students.',
+'Helped students needing personalized support with group activities like crafts/paint and lesson assignments.',
+'Assisted with classes by helping teacher in all areas as needed and maintain organized spaces.',
+'Protected children from infection by cleaning and sanitizing spaces.',
+'Involved in organizing fund-raising events within school .',
+'Promoted student development and engagement by helping organize special activities.'
+
+    ]
   },
   {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - 2018',
+    company: 'SELF, HYDERABAD',
+    position: 'Tutor Volunteer',
+    link: '',
+    daterange: 'July 2015-April 2016',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
-    ],
+      'Assisted students (grades 6-10) with homework using curriculum of the school.',
+'Guided students in Maths by reviewing students textbooks and materials.',
+'Motivated students towards learning to build self-confidence and reduce fear of failure.',
+'Communicated with parents regarding student progress and areas of concern.',
+'Created reports for students on the test results.'
+    ]
   },
   {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'https://zenysis.com',
-    daterange: 'February 2016 - March 2016',
+    company: 'WELLS FARGO, CHARLOTTE',
+    position: 'SharePoint Consultant',
+    link: 'https://www.wellsfargo.com/',
+    daterange: 'Oct 2012 - January 2014',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
+      'Developed survey tool for managers to record employees Affiant/Notary response for audit purpose with validations handled using JQuery.',
+'Created/modified reports in Access 2007.',
+'Prep site collections to migrate from MOSS 2007 to SharePoint 2010.',
+'Created, built, and modified sites to internal users upon request approval.',
+'Created and maintained user accounts and properly routed documents for approval and training.',
+'Collaborated with technical and non-technical staff and contractors at various levels to complete projects.',
+'Developed custom forms using SharePoint Designer and InfoPath at times as per requirements.',
+'Provided estimations and tracked the work to meet the timelines.'
+    ]
   },
   {
-    company: 'Matroid',
-    position: 'Co-founder',
-    link: 'https://matroid.com',
-    daterange: 'July 2015 - January 2016',
+    company: 'LPL FINANCIAL , CHARLOTTE',
+    position: 'Junior SharePoint Developer',
+    link: 'https://www.lpl.com/',
+    daterange: 'April 2012 - September 2012',
     points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
+      'Created, built, and modified sites to internal users upon request approval.',
+'Modified the site branding with the help of master pages and style sheet.',
+'Designed and developed workflows  using SharePoint Designer at times.',
+'Developed components using SharePoint Framework, and third-party integrations.',
+'Developed custom web parts to allow users rate the blogs, and articles.',
+'Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.',
+'Integration of external database to SharePoint 2010 using APIs.'
+  ]
   },
   {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
+    company: 'WELLS FARGO, CHARLOTTE',
+    position: 'SharePoint Developer',
+    link: 'https://www.wellsfargo.com/',
+    daterange: 'October 2011 - April 2012',
     points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
+      'Developed workflows, InfoPath forms using SharePoint designer.',
+      'Developed POCs , technical support and troubleshooting for internal clients.',
+      'Managed the security of sites by creating appropriate groups and roles.',
+      'Collaborated with technical and non-technical staff at various levels to complete projects.',
+      'Provided suggestions and create contents on sites for different departments (ranging from 10 to 15) with required functionality.',
+      'Performed CRUD operations on Access DB for SharePoint lists.'
+    ]
   },
   {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
+    company: 'SONATA SOFTWARE, HYDERABAD',
+    position: 'System Analyst/ Developer/Team Lead ',
+    link: 'https://www.sonata-software.com/',
+    daterange: 'September 2007 - January 2011',
     points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  },
-  {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  },
-  {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    company: 'UB Nanosatellite Program',
-    position: 'Co-founder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
-    points: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
-    ],
-  },
+     ' Developed intranet portals to clients like Aditya Birla (ABFSG India), Mahindra & Mahindra, Genpact India with all features of SharePoint.',
+'Assessed business requirements to create focused solutions.',
+'Collaborated on stages of systems development lifecycle from requirement gathering to production releases.',
+'Customized Sites, Site Collections, Web parts, My Profile to the required extent using SharePoint designer, InfoPath, C#, CSS, ASP.Net, SQL Server 2005, Javascript, VSS.',
+'Developed workflows both inbuilt and customized, across these intranet portals with alert notifications send to outlook.',
+'Discussed issues with team members (team of 6 ) to provide resolution and apply best practices.',
+'Built databases and table structures for web applications.',
+'Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.',
+'Estimated work hours and tracked progress using Scrum methodology.'
+    ]
+  }
+
 ];
 
 export default positions;
