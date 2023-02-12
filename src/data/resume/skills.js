@@ -43,19 +43,16 @@ const skills = [
     competency: 1,
     category: ['Web Development', 'Javascript'],
   },
-  
   {
     title: 'Git',
     competency: 2,
     category: ['Tools'],
   },
-   
   {
     title: 'VS',
     competency: 3,
     category: ['Tools'],
   },
-     
   {
     title: 'Atom',
     competency: 2,
@@ -66,7 +63,6 @@ const skills = [
     competency: 2,
     category: ['TWeb Development', 'Languages'],
   },
-  
   {
     title: 'HTML + CSS',
     competency: 4,

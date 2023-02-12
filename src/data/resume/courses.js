@@ -34,7 +34,7 @@ const courses = [
     number: '6',
     link: 'https://learn.microsoft.com/en-us/certifications/',
     university: 'Microsoft',
-  }
+  },
 
 ];
 

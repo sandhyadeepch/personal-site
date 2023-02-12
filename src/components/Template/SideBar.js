@@ -13,15 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Sandhya R Marri</h2>
-        <p><a href="mailto:sandhyarani@yahoo.co.in">sandhyarani@yahoo.co.in</a></p>
+        <p><a href="mailto:sandhyarani_marri@yahoo.co.in">sandhyarani_marri@yahoo.co.in</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi,I m Sandhya
-     
-      </p>
+      <p>Hi,I m Sandhya</p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
