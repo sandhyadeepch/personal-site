@@ -1,10 +1,10 @@
 const positions = [
   {
     id: '1',
-    company: 'ELLIS ELEMENTARY,SUNNYVALE',
-    position: 'PTA Volunteer',
-    link: 'https://www.sesd.org/ellis',
-    daterange: 'August 2021 - August 2022',
+    company: 'PERSONAL PROJECTS/ TRAINING, AUSTIN',
+    position: 'Trainee',
+    link: 'https://github.com/sandhyadeepch/',
+    daterange: 'Jan 2022 - Present',
     points: [
       'As part of PTA, designed and created flyer for fund raising event.',
       'Participated in fund-raising events and activities.',
@@ -16,10 +16,25 @@ const positions = [
   },
   {
     id: '2',
+    company: 'ELLIS ELEMENTARY, SUNNYVALE',
+    position: 'PTA Volunteer',
+    link: 'https://www.sesd.org/ellis',
+    daterange: 'August 2021 - Jan 2022',
+    points: [
+      'As part of PTA, designed and created flyer for fund raising event.',
+      'Participated in fund-raising events and activities.',
+      'Reached out to organizations who can raise fund for school.',
+      'Organized distribution of tokens/gifts to students (10 classes).',
+      'Chaperoned class field trips to assist teacher and protect students (25).',
+      'Assisted with classes by helping teacher where ever is needed and maintain organized spaces.',
+    ],
+  },
+  {
+    id: '3',
     company: 'BRIGHT BEGINNERS, SUNNYVALE',
     position: 'Parent Volunteer',
     link: 'https://www.fuhsdadultschool.com/preschool-programs/bright-beginnings-preschool',
-    daterange: 'January 2017-December 2020',
+    daterange: 'January 2017 - December 2020',
     points: [
       'Chaperoned class field trips to assist teacher and protect students.',
       'Helped students needing personalized support with group activities like crafts/paint and lesson assignments.',
@@ -31,11 +46,11 @@ const positions = [
     ],
   },
   {
-    id: '3',
+    id: '4',
     company: 'SELF, HYDERABAD',
     position: 'Tutor Volunteer',
     link: '',
-    daterange: 'July 2015-April 2016',
+    daterange: 'July 2015 - April 2016',
     points: [
       'Assisted students (grades 6-10) with homework using curriculum of the school.',
       'Guided students in Maths by reviewing students textbooks and materials.',
@@ -45,7 +60,7 @@ const positions = [
     ],
   },
   {
-    id: '4',
+    id: '5',
     company: 'WELLS FARGO, CHARLOTTE',
     position: 'SharePoint Consultant',
     link: 'https://www.wellsfargo.com/',
@@ -62,8 +77,8 @@ const positions = [
     ],
   },
   {
-    id: '5',
-    company: 'LPL FINANCIAL , CHARLOTTE',
+    id: '6',
+    company: 'LPL FINANCIAL, CHARLOTTE',
     position: 'Junior SharePoint Developer',
     link: 'https://www.lpl.com/',
     daterange: 'April 2012 - September 2012',
@@ -78,7 +93,7 @@ const positions = [
     ],
   },
   {
-    id: '6',
+    id: '7',
     company: 'WELLS FARGO, CHARLOTTE',
     position: 'SharePoint Developer',
     link: 'https://www.wellsfargo.com/',
@@ -93,9 +108,9 @@ const positions = [
     ],
   },
   {
-    id: '7',
+    id: '8',
     company: 'SONATA SOFTWARE, HYDERABAD',
-    position: 'System Analyst/ Developer/Team Lead ',
+    position: 'System Analyst/ Developer/ Team Lead ',
     link: 'https://www.sonata-software.com/',
     daterange: 'September 2007 - January 2011',
     points: [
